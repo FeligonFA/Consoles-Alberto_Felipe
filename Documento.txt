@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Desenvolvimento de outra feature paralela ao projeto principal.
 documento
+=======
+Desenvolvimento defeature 154235 paralela ao projeto principal.
+>>>>>>> FeatureY
