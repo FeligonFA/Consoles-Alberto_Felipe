@@ -1,1 +1,1 @@
-Desenvolvimento de feature secundária paralela ao projeto principal.
+Desenvolvimento de outra feature paralela ao projeto principal.
